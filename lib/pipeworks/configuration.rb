@@ -1,0 +1,2 @@
+class Pipeworks::Configuration
+end
